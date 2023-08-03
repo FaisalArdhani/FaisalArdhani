@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Thoriq AS</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> Faisal Ardhani</h1>
 <h3 align="center">Just A Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhthoriqas&label=Profile%20views&color=0e75b6&style=flat" alt="muhthoriqas" /> </p>
@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/faisal-ardhani-421379230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faisal-Ardhani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/faisal.ardhni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal.ardhni" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -57,6 +58,14 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap"
             width="40"
             height="40"
           />
@@ -114,7 +123,7 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhthoriqas&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhthoriqas&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="faisalArdhani" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="413px" /></p>
 
 <h3 align="left">This month i speend my time on:</h3>
@@ -132,6 +141,12 @@ TypeScript   9 hrs 17 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 JSON         1 hr 34 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.35 %
 ```
 
+<!--END_SECTION:waka-->
+<!-- 
+<a href="https://github.com/Muhthoriqas/My-Portofolio">
+  <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhthoriqas&repo=My-Portofolio"  />
+</a>
+ -->
 
 <h3 align="left">My Contributions:</h3>
 
