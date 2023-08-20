@@ -77,6 +77,7 @@
 
 ###
 
+<h3 align="left">My Contributions:</h3>
 <br clear="both">
 
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake-dark.svg)  
