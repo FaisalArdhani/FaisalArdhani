@@ -84,6 +84,8 @@
 
 ###
 
+<h3 align="left">My activities:</h3>
+
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=faislardhni&theme=tokyonight" alt="Layout with last medium posts"  />
 </div>
