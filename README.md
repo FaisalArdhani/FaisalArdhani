@@ -83,3 +83,9 @@
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake-dark.svg)  
 
 ###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=faislardhni&theme=tokyonight" alt="Layout with last medium posts"  />
+</div>
+
+###
