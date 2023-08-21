@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"><ul><li>🍃 Now I'm Enjoying Learning Backend Developer</li><br><li>🎯 I'm currently a freelancer</li><br><li>🚀 My favorite stack of MERN</li></ul></p>
+<p align="left"><ul><li>🍃 Now I'm Enjoying Learning Backend Developer</li><li>🎯 I'm currently a freelancer</li><li>🚀 My favorite stack of MERN</li></ul></p>
 
 ###
 
