@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" alt="docker logo" />
 </div>
 
 ###
